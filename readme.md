@@ -53,6 +53,9 @@ Criei este repositório para organizar os projetos que desenvolvi durante as aul
 
 #### Iniciando a API
 
+- [TypeScript](https://github.com/claudneysessa/ignite-nodejs-c02-a01)
+- [Criando a API com NodeJS](https://github.com/claudneysessa/ignite-nodejs-c02-a02)
+
 #### Desafio 01 - Introdução ao SOLID
 
 - [Ignite - Trilha NodeJS - Chapter II - Desafio 01](https://github.com/claudneysessa/ignite-nodejs-c02-d01)
