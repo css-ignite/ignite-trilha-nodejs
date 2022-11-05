@@ -1,7 +1,7 @@
 
 ![image](https://user-images.githubusercontent.com/12506432/200095043-28b37a18-216d-4304-a492-57f42bc33246.png)
 
-## Where to find me
+## Onde me encontrar:
 
 <div align="left">
     <a href = "mailto:claudneysartisessa@gmail.com">
