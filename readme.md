@@ -45,7 +45,11 @@ Criei este repositório para organizar os projetos que desenvolvi durante as aul
 
 #### Desafio 01 - Introdução ao SOLID
 
+- [Ignite - Trilha NodeJS - Chapter II - Desafio 01](https://github.com/claudneysessa/ignite-nodejs-c02-d01)
+
 #### Desafio 02 - Documentando com Swagger
+
+- [Ignite - Trilha NodeJS - Chapter II - Desafio 02](https://github.com/claudneysessa/ignite-nodejs-c02-d01)
 
 ### Chapter III
 
