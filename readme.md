@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/12506432/200095043-28b37a18-216d-4304-a492-57f42bc33246.png)
+
 # Projetos Ignite Trilha NodeJS
 
 Repositório criado para organizar os projetos desenvolvidos durante a trilha NodeJS da plataforma Ignite da Rockerseat.
