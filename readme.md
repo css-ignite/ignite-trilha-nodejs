@@ -2,7 +2,7 @@
 
 # Projetos da Trilha NodeJS da Plataforma Ignite da Rocketseat
 
-Criei este repositório para organizar meus projetos desenvolvidos durante as aulas assistidas na trilha NodeJS da plataforma Ignite da Rockerseat.
+Criei este repositório para organizar os projetos que desenvolvi durante as aulas assistidas na trilha NodeJS da plataforma Ignite da Rockerseat.
 
 ## Projetos
 
