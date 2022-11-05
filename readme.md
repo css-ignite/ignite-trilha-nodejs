@@ -5,19 +5,19 @@
 
 <div align="left">
     <a href = "mailto:claudneysartisessa@gmail.com">
-      <img src="https://img.shields.io/badge/-claudneysessa-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+      <img src="https://img.shields.io/badge/-claudneysessa-%23333?style=flat&logo=gmail&logoColor=white" target="_blank">
     </a>
     <a href="https://www.linkedin.com/in/claudneysessa/" target="_blank">
-      <img src="https://img.shields.io/badge/-claudneysessa-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+      <img src="https://img.shields.io/badge/-claudneysessa-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank">
     </a>
     <a href="https://instagram.com/claudneysessa" target="_blank">
-      <img src="https://img.shields.io/badge/-claudneysessa-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+      <img src="https://img.shields.io/badge/-claudneysessa-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank">
     </a>
     <a href="https://www.youtube.com/channel/UC52P3HVpmOMHjkmIhcjLRyQ" target="_blank">
-      <img src="https://img.shields.io/badge/-claudneysessa-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+      <img src="https://img.shields.io/badge/-claudneysessa-FF0000?style=flat&logo=youtube&logoColor=white" target="_blank">
     </a>
     <a href="https://medium.com/@claudneysartisessa" target="_blank">
-      <img src="https://img.shields.io/badge/-claudneysessa-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" target="_blank"/>
+      <img src="https://img.shields.io/badge/-claudneysessa-%2312100E.svg?&style=flat&logo=medium&logoColor=white" target="_blank"/>
     </a>
 </div>
 
