@@ -1,6 +1,6 @@
 # Projetos Ignite Trilha NodeJS
 
-Repositório criado para organizar os projetos desenvolvidos durante a trilha NodeJS da plataforma ignite da Rockerseat.
+Repositório criado para organizar os projetos desenvolvidos durante a trilha NodeJS da plataforma Ignite da Rockerseat.
 
 ## Projetos
 
