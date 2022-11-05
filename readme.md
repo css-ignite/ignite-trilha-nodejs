@@ -37,17 +37,11 @@ Criei este repositório para organizar os projetos que desenvolvi durante as aul
 
 - [Primeiro Projeto com NodeJS](https://github.com/claudneysessa/ignite-nodejs-c01-a02)
 
-#### Desafio 01 - Conceitos do NodeJS
+#### Desafios 
 
-- [Ignite - Trilha NodeJS - Chapter I - Desafio 01](https://github.com/claudneysessa/ignite-nodejs-c01-d01)
-
-#### Desafio 02 - Trabalhando com Middlewares
-
-- [Ignite - Trilha NodeJS - Chapter I - Desafio 01](https://github.com/claudneysessa/ignite-nodejs-c01-d02)
-
-#### Desafio 03 - Corrigindo o Código
-
-- [Ignite - Trilha NodeJS - Chapter I - Desafio 01](https://github.com/claudneysessa/ignite-nodejs-c01-d03)
+- [Ignite - Trilha NodeJS - Chapter I - Desafio 01 - Conceitos do NodeJS](https://github.com/claudneysessa/ignite-nodejs-c01-d01)
+- [Ignite - Trilha NodeJS - Chapter I - Desafio 02 - Trabalhando com Middlewares](https://github.com/claudneysessa/ignite-nodejs-c01-d02)
+- [Ignite - Trilha NodeJS - Chapter I - Desafio 03 - Corrigindo o Código](https://github.com/claudneysessa/ignite-nodejs-c01-d03)
 
 ### Chapter II
 
@@ -56,13 +50,10 @@ Criei este repositório para organizar os projetos que desenvolvi durante as aul
 - [TypeScript](https://github.com/claudneysessa/ignite-nodejs-c02-a01)
 - [Criando a API com NodeJS](https://github.com/claudneysessa/ignite-nodejs-c02-a02)
 
-#### Desafio 01 - Introdução ao SOLID
+#### Desafios
 
-- [Ignite - Trilha NodeJS - Chapter II - Desafio 01](https://github.com/claudneysessa/ignite-nodejs-c02-d01)
-
-#### Desafio 02 - Documentando com Swagger
-
-- [Ignite - Trilha NodeJS - Chapter II - Desafio 02](https://github.com/claudneysessa/ignite-nodejs-c02-d01)
+- [Ignite - Trilha NodeJS - Chapter II - Desafio 01 - Introdução ao SOLID](https://github.com/claudneysessa/ignite-nodejs-c02-d01)
+- [Ignite - Trilha NodeJS - Chapter II - Desafio 02 - Documentando com Swagger](https://github.com/claudneysessa/ignite-nodejs-c02-d01)
 
 ### Chapter III
 
