@@ -32,9 +32,10 @@ Criei este repositório para organizar os projetos que desenvolvi durante as aul
 #### Fundamentos do NodeJS
 
 - [Fundamentos do NodeJS](https://github.com/claudneysessa/ignite-nodejs-c01-a01)
-- [Primeiro Projeto com NodeJS](https://github.com/claudneysessa/ignite-nodejs-c01-a02)
 
 #### Primeiro projeto com NodeJS
+
+- [Primeiro Projeto com NodeJS](https://github.com/claudneysessa/ignite-nodejs-c01-a02)
 
 #### Desafio 01 - Conceitos do NodeJS
 
