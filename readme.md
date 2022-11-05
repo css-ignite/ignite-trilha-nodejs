@@ -35,9 +35,15 @@ Criei este repositório para organizar os projetos que desenvolvi durante as aul
 
 #### Desafio 01 - Conceitos do NodeJS
 
+- [Ignite - Trilha NodeJS - Chapter I - Desafio 01](https://github.com/claudneysessa/ignite-nodejs-c01-d01)
+
 #### Desafio 02 - Trabalhando com Middlewares
 
+- [Ignite - Trilha NodeJS - Chapter I - Desafio 01](https://github.com/claudneysessa/ignite-nodejs-c01-d02)
+
 #### Desafio 03 - Corrigindo o Código
+
+- [Ignite - Trilha NodeJS - Chapter I - Desafio 01](https://github.com/claudneysessa/ignite-nodejs-c01-d03)
 
 ### Chapter II
 
