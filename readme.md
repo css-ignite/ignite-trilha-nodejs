@@ -29,13 +29,10 @@ Criei este repositório para organizar os projetos que desenvolvi durante as aul
 
 ### Chapter I
 
-#### Fundamentos do NodeJS
+#### Aulas
 
-- [Fundamentos do NodeJS](https://github.com/claudneysessa/ignite-nodejs-c01-a01)
-
-#### Primeiro projeto com NodeJS
-
-- [Primeiro Projeto com NodeJS](https://github.com/claudneysessa/ignite-nodejs-c01-a02)
+- [Ignite - Trilha NodeJS - Chapter I - Fundamentos do NodeJS](https://github.com/claudneysessa/ignite-nodejs-c01-a01)
+- [Ignite - Trilha NodeJS - Chapter I - Primeiro Projeto com NodeJS](https://github.com/claudneysessa/ignite-nodejs-c01-a02)
 
 #### Desafios 
 
@@ -45,10 +42,10 @@ Criei este repositório para organizar os projetos que desenvolvi durante as aul
 
 ### Chapter II
 
-#### Iniciando a API
+#### Aulas
 
-- [TypeScript](https://github.com/claudneysessa/ignite-nodejs-c02-a01)
-- [Criando a API com NodeJS](https://github.com/claudneysessa/ignite-nodejs-c02-a02)
+- [Ignite - Trilha NodeJS - Chapter II - TypeScript](https://github.com/claudneysessa/ignite-nodejs-c02-a01)
+- [Ignite - Trilha NodeJS - Chapter II - Criando a API com NodeJS](https://github.com/claudneysessa/ignite-nodejs-c02-a02)
 
 #### Desafios
 
@@ -57,6 +54,6 @@ Criei este repositório para organizar os projetos que desenvolvi durante as aul
 
 ### Chapter III
 
-#### Continuando a Aplicação
+#### Aulas
 
-- [Ignite - Trilha NodeJS - Chapter III](https://github.com/claudneysessa/ignite-nodejs-c03)
+- [Ignite - Trilha NodeJS - Chapter III - Continuando a Aplicação](https://github.com/claudneysessa/ignite-nodejs-c03)
