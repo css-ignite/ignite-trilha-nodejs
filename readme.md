@@ -18,7 +18,6 @@
     <a href="https://medium.com/@claudneysartisessa" target="_blank">
       <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
     </a>
-    <img src="https://raw.githubusercontent.com/claudneysessa/claudneysessa/27a8638d52a168508295a6e0dd01c2a876b4acdb/github-contribution-grid-snake.svg"/>
 </div>
 
 # Projetos da Trilha NodeJS da Plataforma Ignite da Rocketseat
