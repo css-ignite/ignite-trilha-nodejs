@@ -28,4 +28,4 @@ Repositório criado para organizar os projetos desenvolvidos durante a trilha No
 
 #### Continuando a Aplicação
 
-- [ignite-nodejs-c03](https://github.com/claudneysessa/ignite-nodejs-c03)
+- [Ignite - Trilha NodeJS - Chapter III](https://github.com/claudneysessa/ignite-nodejs-c03)
